@@ -1,7 +1,7 @@
 {
     "name": "localgovdrupal/localgov_assets",
     "description": "Javascript assets for Localgov Drupal",
-    "type": "library",
+    "type": "drupal-library",
     "license": "GPL-2.0-or-later",
     "repositories": {
         "dropzone": {
