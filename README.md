@@ -20,6 +20,7 @@ or for an individual library:
 "replace": {
     "enyo/dropzone" : "*"
 }
+```
 
 Then require the libraries you need in your preffered way.
 
